@@ -1,0 +1,45 @@
+#animated-menu ul{
+	margin:0;
+	padding:0;
+}
+
+#animated-menu li{
+	width:100px;
+	height:50px;
+	float:left;
+	color:#191919;
+	text-align:center;
+	overflow:hidden;
+}
+
+#animated-menu a{
+	color:#FFF;
+	text-decoration:none;
+}
+
+#animated-menu p{
+	padding:0px 5px;
+}
+
+#animated-menu>ul>li>p .subtext{
+		padding-top:15px;
+}
+#animated-menu{
+	position: absolute;	
+	margin-top: 121px;
+	margin-bottom: 0;
+	margin: auto;
+	color: #fff;
+}
+#animated-menu>ul>li{
+	height: 34px;
+	width:121px;
+}
+#animated-menu>ul{
+	width: 950px;
+}
+#animated-menu .hiperul{
+	display: block;
+}
+/*Menu Color Classes*/
+.yellow{background-color: #cc6601;}

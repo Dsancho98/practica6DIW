@@ -203,35 +203,6 @@ a:hover{
 	clear: both;
 	padding: 0px;
 }
-#cabecera #menu>ul>li{
-	margin: 0px;
-	padding: 0px;
-	color: #fff;
-	height: 26px;	
-	display: inline;
-}
-#cabecera #menu>ul>li> a{
-	width: 110px;
-	float: left;
-	font-weight: bold;
-	text-decoration: none;
-	text-align: center;
-	font-size: 14px;
-	color: #8A4500;
-	padding: 8px 0px 0px 0px;
-	list-style: none;
-	
-}
-#cabecera #menu>ul>li> a:hover{
-	color: #fff;
-	height: 26px;
-	background-color: #cc6601;	
-}
-#cabecera #menu>ul>li> a.current{
-	color: #fff;
-	height: 26px;
-	background-color: #cc6601;	
-}
 #cabecera #logo h1{
 	font-weight: normal;
 	margin: 0px;
@@ -292,3 +263,33 @@ a:hover{
 	padding-bottom:5px;
 	padding-top: 4px;
 }
+/*
+#cabecera #menu>ul>li{
+	margin: 0px;
+	padding: 0px;
+	color: #fff;
+	height: 26px;	
+	display: inline;
+}
+#cabecera #menu>ul>li> a{
+	width: 110px;
+	float: left;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	font-size: 14px;
+	color: #8A4500;
+	padding: 8px 0px 0px 0px;
+	list-style: none;
+	
+}
+#cabecera #menu>ul>li> a:hover{
+	color: #fff;
+	height: 26px;
+	background-color: #cc6601;	
+}
+#cabecera #menu>ul>li> a.current{
+	color: #fff;
+	height: 26px;
+	background-color: #cc6601;	
+}*/
