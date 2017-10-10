@@ -20,15 +20,12 @@
 #animated-menu p{
 	padding:0px 5px;
 }
-
-#animated-menu>ul>li>p .subtext{
-		padding-top:15px;
-}
 #animated-menu{
 	position: absolute;	
-	margin-top: 121px;
+	margin-top: 12px;
 	margin-bottom: 0;
-	margin: auto;
+	margin-right: auto;
+	margin-left: auto;
 	color: #fff;
 }
 #animated-menu>ul>li{
