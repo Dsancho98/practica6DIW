@@ -263,6 +263,9 @@ a:hover{
 	padding-bottom:5px;
 	padding-top: 4px;
 }
+#wraper #icons{
+	float:left;
+}
 /*
 #cabecera #menu>ul>li{
 	margin: 0px;
